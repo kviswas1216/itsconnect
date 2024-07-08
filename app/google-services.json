@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674377308581",
+    "project_id": "itsconnect-be0d8",
+    "storage_bucket": "itsconnect-be0d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674377308581:android:105450e27091758a33b04c",
+        "android_client_info": {
+          "package_name": "com.example.itsconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSo2r4_dWr21AKDzAJt6nIRRL8nGRLTLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
